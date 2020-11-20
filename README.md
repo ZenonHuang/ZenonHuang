@@ -7,8 +7,3 @@
 - ⚡ Fun fact: I haven't had enough to eat
 
 
-
-![zenon's github stats](https://github-readme-stats.vercel.app/api?username=ZenonHuang&show_icons=true)
-
-![zenon's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=ZenonHuang)
-
